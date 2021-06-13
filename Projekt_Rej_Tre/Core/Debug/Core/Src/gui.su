@@ -1,0 +1,13 @@
+gui.c:69:6:FixIndicator	16	static
+gui.c:78:6:StartButton	16	static
+gui.c:86:6:StopButton	16	static
+gui.c:95:6:TimeReset	32	static
+gui.c:128:6:TimeAndDate	144	static
+gui.c:152:6:StatsDisplay	160	static
+gui.c:176:9:IsToggleButtonTouched	16	static
+gui.c:204:6:FixCheck	8	static
+gui.c:214:6:InitScreen	16	static
+gui.c:239:6:DrawScreen	16	static
+gui.c:260:6:DrawToggle	8	static
+gui.c:279:6:Gps	88	static
+gui.c:410:6:Gui	8	static

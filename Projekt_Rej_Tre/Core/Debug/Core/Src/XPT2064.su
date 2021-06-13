@@ -1,0 +1,11 @@
+XPT2064.c:93:6:XPT2046_GetRawData	16	static
+XPT2064.c:112:6:XPT2046_ReadRawData	16	static
+XPT2064.c:121:6:XPT2046_ReadTouchPoint	40	static
+XPT2064.c:143:6:XPT2046_GetTouchPoint	32	static
+XPT2064.c:161:9:XPT2046_IsTouched	4	static
+XPT2064.c:172:6:XPT2046_Task	8	static
+XPT2064.c:264:6:XPT2046_IRQ	8	static
+XPT2064.c:275:6:XPT2046_Init	16	static
+XPT2064.c:318:6:CalibrationPoint	32	static
+XPT2064.c:328:6:CalculateCalibrationData	16	static
+XPT2064.c:357:6:DoCalibration	24	static
